@@ -1,9 +1,11 @@
 package com.company;
 
-public class Main {
+public class emptyclass {
 
-    public static void main(String[] args) {
-	// write your code here
-        
+   public static void main(String[] args)
+   {
+
+       System.out.printf("hello World%n");
+
     }
 }
